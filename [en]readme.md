@@ -55,4 +55,4 @@ Thanks for your reading !
 <br />
 <br />
 <br />
-<div style="text-align:center"><img src="media/pictures/logo.jpg"alt="Université de Lille"/></div>
+<div style="text-align:center"><img src="media/pictures/logo.png"alt="Université de Lille"/></div>
