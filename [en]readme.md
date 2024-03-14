@@ -1,6 +1,6 @@
 # Practical Work DTW of IHMA
 
-This upload corresponds with the "DTW" Practival Work (PW) of IHMA available [here](media/tpDTW "PW DTW").
+This upload corresponds with the "DTW" Practival Work (PW) of IHMA available [here](https://gery.casiez.net/IHMA/TP_DTW/).
 This PW consisted of
 
 * se familiariser avec la technique Dynamic Time Warping

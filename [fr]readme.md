@@ -1,6 +1,6 @@
 # TP DTW de Interfaces Humain Machine Avancées
 
-Ce dépôt correspond au TP DTW de IHMA disponible [ici](media/tpDTW "TP1").
+Ce dépôt correspond au TP DTW de IHMA disponible [ici](https://gery.casiez.net/IHMA/TP_DTW/).
 Le TP consistait à :
 
 * se familiariser avec la technique Dynamic Time Warping
