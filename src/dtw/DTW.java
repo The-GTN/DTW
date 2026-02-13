@@ -26,7 +26,7 @@ public class DTW {
 
         for(int j = 1; j<m; j++) {
             dtw.items[0][j] = dtw.items[0][j-1] + c(R.elementAt(0),T.elementAt(j));
-            dtw.couple[0][j] = new Couple(j-1,0);
+            dtw.couple[0][j] = new Couple(0,j-1);
         }
 
         for(int i = 1; i<n; i++)
@@ -89,3 +89,4 @@ public class DTW {
     }
     
 }
+
